@@ -1,6 +1,9 @@
-# Python Reference
+# Python
 
-Resumo:
+#### References:
 
-1. Junho 2018: Curso Udemy "Python A-Z"
-2. Dezembro 2018: Livro "Data Structures and Algorithms in Python"
+- [x] [Python A-Z](https://www.udemy.com/python-coding/)
+- [ ] [Data Structures & Algorithms in Python](https://www.amazon.com.br/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275)
+
+------
+
